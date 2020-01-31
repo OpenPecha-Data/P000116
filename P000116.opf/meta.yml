@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༄༅། །དགེ་ཚུལ་གྱི་ཀཱ་རི་ཀཱ་ལྔ་བཅུ་པ་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། ཀླུ་སྒྲུབ། པདྨའི་ངང་ཚུལ།
+  sku: LEK-PHI-066
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: Fifty Verses of Novice Precepts
+    bo: དགེ་ཚུལ་གྱི་ཀཱ་རི་ཀཱ་ལྔ་བཅུ་པ་བཞུགས་སོ།།
+  collection:
+    en: Lekshey Ling Philosophy Series–  Book 66
+    bo: ལེགས་བཤད་གླིང་རིགས་པའི་གཞུང་ལུགས།–  དེབ། ༦༦
+  author:
+    en: Authors:Kamalashila,Nagarjuna
+    bo: ཀ་མ་ལ་ཤཱི་ལ།,ཀླུ་སྒྲུབ།
+  pusblisher:
+    en: Lekshey Ling Publications
+    bo: ཀརྨ་ལེགས་བཤད་གླིང།
+  sku: LEK-PHI-066
+  category:
+    en: Vinaya
+    bo: འདུལ་བ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LEK-PHI-066.epub
+  description:
+    en: ''
+    bo: ''
