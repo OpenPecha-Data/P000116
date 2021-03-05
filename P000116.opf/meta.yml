@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000116
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །དགེ་ཚུལ་གྱི་ཀཱ་རི་ཀཱ་ལྔ་བཅུ་པ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཀླུ་སྒྲུབ། པདྨའི་ངང་ཚུལ།
-  sku: LEK-PHI-066
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - yigchung
+  id: LEK-PHI-066
 web_metadata:
   title:
     en: Fifty Verses of Novice Precepts
